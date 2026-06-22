@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Restricted source PDFs (download from official sources — see README)
+data/corpus/raw_pdfs/red_cross_essential_first_aid_guide.pdf
+data/corpus/raw_pdfs/stjohn_first_aid_quick_reference.pdf
+
+# API keys
+.env
