@@ -1,0 +1,7 @@
+{
+  "n_total_queries": 5,
+  "n_evaluated": 5,
+  "n_skipped_not_in_index": 0,
+  "top1_hit_pct": 60.0,
+  "top3_hit_pct": 60.0
+}
