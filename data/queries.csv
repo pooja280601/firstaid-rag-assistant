@@ -1,0 +1,6 @@
+id,question,expected_doc_id
+1,How do I perform adult CPR using the DRSABCD approach?,RCC_ESSENTIAL
+2,What are the steps for treating severe bleeding?,STJ_QUICKREF
+3,What first aid equipment must a workplace provide?,SWA_CODE
+4,How should I respond to choking in an adult?,STJ_QUICKREF
+5,When should an AED be used during CPR?,RCC_ESSENTIAL
